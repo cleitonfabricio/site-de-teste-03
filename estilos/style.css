@@ -25,17 +25,17 @@ section#telefone {
     left: 50%;
     transform: translate(-50%, -50%);
 
-    height: 980px;
-    width: 481px;
+    height: 627px;
+    width: 311px;
     background: url('../imagens/frame-iphone.png') no-repeat;
 }
 iframe#tela {
     position: relative;
-    top: 19px;
-    left: 24px;
-    width: 433px;
-    height: 944px;
-    border-radius: 50px;
+    top: 12px;
+    left: 15px;
+    width: 281px;
+    height: 603px;
+    border-radius: 35px;
 }
 section#redes-sociais {
     text-align: right;
